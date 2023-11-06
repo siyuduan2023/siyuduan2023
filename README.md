@@ -1,5 +1,5 @@
 ### Hi there 👋 My name is Siyu.
-
+<br><br>
 <!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
@@ -18,7 +18,7 @@ I recently graduated with an Architecture Design degree from Cardiff University 
 
 
 📖 I am currently learning UX Design with this course: [UI / UX Design Specialization](https://www.coursera.org/specializations/ui-ux-design).<br>
-🥳 I love practising JavaScript on exercise. And solving [CodeWar](https://www.codewars.com/users/CU_2023) katas.
+🥳 I love practising JavaScript on exercise. And solving [CodeWar](https://www.codewars.com/users/CU_2023) katas.<br><br><br><br>
 
 
 ## Projects
