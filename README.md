@@ -26,7 +26,7 @@ I recently graduated with an Architecture Design degree from Cardiff University 
 |Projects          | Links          |Details            |
 |:-----------------|---------------|------------------|
 |Dictionary        |               |A vanilla JavaScript APP that uses fetch API calls.|
-|Memory Echo       |               |A full-stack APP designed and created by a team of 6 as mid-course project at School of Code.|
+|Memory Echo       |[Memory Echo](https://memoryecho.vercel.app/)|A full-stack mobile APP designed and created by a team of 6 as mid-course project at School of Code.|
 |Local Garden      |               |A full-stack side project, designed for community garden volunteers to manage learning materials and record harvest products.|
 
 
