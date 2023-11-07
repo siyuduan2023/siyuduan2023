@@ -11,14 +11,15 @@
 
 ## About me
 
-I recently graduated with an Architecture Design degree from Cardiff University and am currently studying full-stack software development at [School of Code](https://www.schoolofcode.co.uk/). I am interested in coding because I like its approach to solving problems. When I'm not working, I like cooking, DIY and crocheting, going to the local community garden to learn some gardening knowledge, and taking care of my vegetables on my balcony.
+I recently graduated with an Architecture Design degree from Cardiff University and am currently studying full-stack software development at [School of Code](https://www.schoolofcode.co.uk/). I am interested in coding because I like its approach to solving problems. When I'm not working, I like cooking, DIY and crocheting, going to the local community garden to learn some gardening knowledge, and taking care of my vegetables on my balcony.<br>
+I am documenting my code-learning journey on [Twitter](https://twitter.com/siyuduan2023).
 
 
 ### Learning
 
 
 📖 I am currently learning UX Design with this course: [UI / UX Design Specialization](https://www.coursera.org/specializations/ui-ux-design).<br>
-🥳 I love practising JavaScript on exercise. And solving [CodeWar](https://www.codewars.com/users/CU_2023) katas.<br><br><br><br>
+🥳 I love practising JavaScript on exercise. I also like solving [CodeWar](https://www.codewars.com/users/CU_2023) katas, some kata solutions can be found in the following Pinned - CodeWar repo.<br><br><br><br>
 
 
 ## Projects
