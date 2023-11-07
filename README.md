@@ -11,8 +11,8 @@
 
 ## About me
 
-I recently graduated with an Architecture Design degree from Cardiff University and am currently studying full-stack software development at [School of Code](https://www.schoolofcode.co.uk/). I am interested in coding because I like its approach to solving problems. When I'm not working, I like cooking, DIY and crocheting, going to the local community garden to learn some gardening knowledge, and taking care of my vegetables on my balcony.<br>
-I am documenting my code-learning journey on [Twitter](https://twitter.com/siyuduan2023).
+👩‍🎓 I recently graduated with an Architecture Design degree from Cardiff University and am currently studying full-stack software development at [School of Code](https://www.schoolofcode.co.uk/). I am interested in coding because I like its approach to solving problems. When I'm not working, I like cooking, DIY and crocheting, going to the local community garden to learn some gardening knowledge, and taking care of my vegetables on my balcony.<br>
+⏺️ I am documenting my code-learning journey on [Twitter](https://twitter.com/siyuduan2023).
 
 
 ### Learning
