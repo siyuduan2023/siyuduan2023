@@ -16,6 +16,9 @@
 📖 I am currently learning UX Design with this course: [UI / UX Design Specialization](https://www.coursera.org/specializations/ui-ux-design).<br>
 🥳 I love practising JavaScript on exercise. I also like solving [CodeWar](https://www.codewars.com/users/CU_2023) katas, some kata solutions can be found in the following Pinned - CodeWar repo.<br><br><br><br>
 
+## Skills
+
+
 
 ## Projects
 
