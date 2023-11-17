@@ -15,7 +15,7 @@
 ⏺️ I am documenting my code-learning journey on [Twitter](https://twitter.com/siyuduan2023).<br>
 ✍🏼 I also write articles on Medium about my bootcamp experience and projects:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[How teamwork helped me survive Bootcamp Week 4 — — build a RESTful API](https://medium.com/@siyuduan.learning/how-teamwork-helped-me-survive-bootcamp-week-4-build-a-restful-api-a6e02ded886a)<br><br>
-📖 I am currently learning UX Design with this course: [UI / UX Design Specialization](https://www.coursera.org/specializations/ui-ux-design).<br>
+📖 I am currently learning UX Design with this course: [UI / UX Design Specialization](https://www.coursera.org/specializations/ui-ux-design). And I created this [Trello](https://trello.com/invite/devlearnboard/ATTIc0f396a626c55d043631a71a4e28378aA2FE8573) board to track my learning.<br>
 🥳 I love practising JavaScript on exercise. I also like solving [CodeWar](https://www.codewars.com/users/CU_2023) katas, some kata solutions can be found in the following Pinned - CodeWar repo.<br><br><br><br>
 
 ---
