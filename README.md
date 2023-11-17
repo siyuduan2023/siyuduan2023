@@ -25,11 +25,11 @@
 
 ## Projects
 
-|Projects          | Links          |Details            |
-|:-----------------|---------------|------------------|
-|Dictionary        |               |A vanilla JavaScript APP that uses fetch API calls.|
-|Memory Echo       |[Memory Echo](https://memoryecho.vercel.app/)|A full-stack mobile APP designed and created by a team of 6 as mid-course project at School of Code.|
-|Local Garden      |[Notes For Garden](https://github.com/siyuduan2023/NotesForGarden)               |A full-stack side project, designed for community garden volunteers to manage learning materials and record harvest products.|
+|Projects          | Links                                                                           |Tech stack            |Details            |
+|:-----------------|---------------------------------------------------------------------------------|----------------------|-------------------|
+|Dictionary        |                                                                                 |JavaScript            |A vanilla JavaScript APP that uses fetch API calls.|
+|Memory Echo       |[Memory Echo](https://memoryecho.vercel.app/)                                    |HTML, CSS, JavaScript |A full-stack mobile APP designed and created by a team of 6 as mid-course project at School of Code.|
+|Local Garden      |[Notes For Garden](https://github.com/siyuduan2023/NotesForGarden)               |HTML, CSS, JavaScript, React |A full-stack side project, designed for community garden volunteers to manage learning materials and record harvest products.|
 
 
 <!--
