@@ -29,6 +29,7 @@
 |:-----------------|--------------------------------------|-------------------------------------------|---------------------------------------|-------------------|
 |Memory Echo       |[Demo](https://memoryecho.vercel.app/)|                                     |JavaScript, CSS, HTML  |A full-stack mobile APP designed and created by a team of 6 as mid-course project at School of Code.|
 |Local Garden      | |  [GitHub](https://github.com/siyuduan2023/NotesForGarden)            |React, JavaScript, CSS, HTML  |A full-stack side project, designed for community garden volunteers to manage learning materials and record harvest products.|
+|SoC Cocktail Bar  |   |   |Next.js, JavaScript, CSS, HTML |Multi-page website of a cocktail bar menu inspired by SoC coaches|
 |Dictionary        |                                      | [GitHub](https://github.com/siyuduan2023/DictionaryApp)                                          |JavaScript            |A vanilla JavaScript APP that uses fetch API calls.|
 
 
