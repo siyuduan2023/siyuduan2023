@@ -19,10 +19,6 @@
 📖 I am currently learning UX Design with this course: [UI / UX Design Specialization](https://www.coursera.org/specializations/ui-ux-design). And I created this [Trello](https://trello.com/invite/devlearnboard/ATTIc0f396a626c55d043631a71a4e28378aA2FE8573) board to track my learning.<br>
 🥳 I love practising JavaScript on exercise. I also like solving [CodeWar](https://www.codewars.com/users/CU_2023) katas, some kata solutions can be found in the following Pinned - CodeWar repo.<br><br><br><br>
 
----
-
-### :hammer_and_wrench: Languages and Tools :
-
 
 ## Projects
 
