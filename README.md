@@ -27,7 +27,7 @@
 
 ## Projects
 
-|Projects          |                                      |                                       |Tech stack            |Details            |Time                      |
+|Projects          |Demo                                      |Code                                       |Tech stack            |Details            |Time                      |
 |:-----------------|--------------------------------------|-------------------------------------------|---------------------------------------|-------------------|--------|
 |Memory Echo       |[Demo](https://memoryecho.vercel.app/)|                                     |JavaScript, CSS, HTML  |A full-stack mobile APP designed and created by a team of 6 as the mid-course project at School of Code.|SoC Week 7&8|
 |Local Garden      | |  [GitHub](https://github.com/siyuduan2023/NotesForGarden)            |React, JavaScript, CSS, HTML  |A full-stack side project, designed for community garden volunteers to manage learning materials and record harvest products.|Oct 2023 |
