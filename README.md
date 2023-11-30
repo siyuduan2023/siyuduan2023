@@ -30,6 +30,7 @@
 
 |Projects          |Demo                                      |Code                                       |Tech stack            |Details            |Time                      |
 |:-----------------|--------------------------------------|-------------------------------------------|---------------------------------------|-------------------|--------|
+|BeyondBarriers    |  |  |React, JavaScript, Tailwind  |Full-stack mobile APP designed for people with special needs to easily find venue information. |SoC Week 13 - 16|
 |Memory Echo       |[Demo](https://memoryecho.vercel.app/)|                                     |JavaScript, CSS, HTML  |A full-stack mobile APP designed and created by a team of 6 as the mid-course project at School of Code.|SoC Week 7&8|
 |Local Garden      | |  [GitHub](https://github.com/siyuduan2023/NotesForGarden)            |React, JavaScript, CSS, HTML  |A full-stack side project, designed for community garden volunteers to manage learning materials and record harvest products.|Oct 2023 |
 |SoC Cocktail Bar  |   |   |Next.js, JavaScript, CSS, HTML |Multi-page website of a cocktail bar menu inspired by SoC coaches.|SoC Week 11|
