@@ -33,9 +33,6 @@
 |BeyondBarriers    |  |  |React, JavaScript, Tailwind  |Full-stack mobile APP designed for people with special needs to easily find venue information. (ongoing) |SoC Week 13 - 16|
 |Memory Echo       |[Demo](https://memoryecho.vercel.app/)|                                     |JavaScript, CSS, HTML  |A full-stack mobile APP designed and created by a team of 6 as the mid-course project at School of Code.|SoC Week 8|
 |Local Garden      |[Demo](https://localgarden.vercel.app/) |  [GitHub](https://github.com/siyuduan2023/NotesForGarden)            |React, JavaScript, CSS, HTML  |A full-stack side project, designed for community garden volunteers to manage learning materials and record harvest products. (ongoing)|Oct 2023 |
-|SoC Cocktail Bar  |   |   |Next.js, JavaScript, CSS, HTML |Multi-page website of a cocktail bar menu inspired by SoC coaches.|SoC Week 11|
-|BBC Sports Clone  |   |   |JavaScript, CSS, HTML  |A frontend clone practice. |SoC Week 6| 
-|Dictionary        |[Demo](https://dictionary-app-ecru.vercel.app/)                    | [GitHub](https://github.com/siyuduan2023/DictionaryApp)                                          |JavaScript            |A vanilla JavaScript APP that uses fetch API calls.|SoC Week 3|
 
 <br><br><br>
 ## Bootcamp Hackathon
