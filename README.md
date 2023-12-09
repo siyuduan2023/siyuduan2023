@@ -37,6 +37,16 @@
 |BBC Sports Clone  |   |   |JavaScript, CSS, HTML  |A frontend clone practice. |SoC Week 6| 
 |Dictionary        |[Demo](https://dictionary-app-ecru.vercel.app/)                    | [GitHub](https://github.com/siyuduan2023/DictionaryApp)                                          |JavaScript            |A vanilla JavaScript APP that uses fetch API calls.|SoC Week 3|
 
+<br><br><br>
+## Bootcamp Hackathon
+
+|Projects          |Demo |Learning Topic                             |Theme           |Tech stack            |Time                      |
+|:-----------------|-----|-------------------------------------------|---------------------------------------|-------------------|--------|
+|SoC Cocktail Bar  |   |Next.js |Multi-page website of a cocktail bar menu inspired by SoC coaches.|Next.js, JavaScript |SoC Week 11|
+|BBC Sports Clone  |   |CSS grid and flexbox|A frontend clone practice. |JavaScript, CSS, HTML  |SoC Week 6| 
+|Cat Family  |   |PostgreSQL|Build a REST API with PostgreSQL. |PostgreSQL, ElephantSQL, JavaScript|SoC Week 5| 
+|Country Info API  |   |REST API, Node.js, Express.js|Build a REST API |JavaScript, Node.js, Express.js|SoC Week 4|
+|Dictionary        |[Demo](https://dictionary-app-ecru.vercel.app/)   |External API and Fetch|A vanilla JavaScript APP that uses fetch API calls.    |JavaScript  |SoC Week 3|
 
 <!--
 **siyuduan2023/siyuduan2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
