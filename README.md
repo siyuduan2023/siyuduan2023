@@ -33,9 +33,9 @@
 
 |Projects          |Demo                                      |Code                                       |Tech stack            |Details            |Time                      |
 |:-----------------|--------------------------------------|-------------------------------------------|---------------------------------------|-------------------|--------|
-|BeyondBarriers (group project)    |[Demo](https://beyond-barriers.vercel.app/)  |  |React, JavaScript, Tailwind  |Full-stack mobile APP designed for people with special needs to easily find venue information. (ongoing) |SoC Week 13 - 16|
-|Memory Echo (group project)      |[Demo](https://memoryecho.vercel.app/)|                                     |JavaScript, CSS, HTML  |A full-stack mobile APP designed and created by a team of 6 as the mid-course project at School of Code.|SoC Week 8|
-|Local Garden (solo project)     |[Demo](https://localgarden.vercel.app/) |  [GitHub](https://github.com/siyuduan2023/NotesForGarden)            |React, JavaScript, CSS, HTML  |A full-stack side project, designed for community garden volunteers to manage learning materials and record harvest products. (ongoing)|Oct 2023 |
+|BeyondBarriers<br> (group project)    |[Demo](https://beyond-barriers.vercel.app/)  |  |React, JavaScript, Tailwind  |Full-stack mobile APP designed for people with special needs to easily find venue information. (ongoing) |SoC Week 13 - 16|
+|Memory Echo<br> (group project)      |[Demo](https://memoryecho.vercel.app/)|                                     |JavaScript, CSS, HTML  |A full-stack mobile APP designed and created by a team of 6 as the mid-course project at School of Code.|SoC Week 8|
+|Local Garden<br> (solo project)     |[Demo](https://localgarden.vercel.app/) |  [GitHub](https://github.com/siyuduan2023/NotesForGarden)            |React, JavaScript, CSS, HTML  |A full-stack side project, designed for community garden volunteers to manage learning materials and record harvest products. (ongoing)|Oct 2023 |
 
 <br><br><br>
 ## Bootcamp Hackathon
