@@ -43,6 +43,7 @@
 |Projects          |Demo |Learning Topic                             |Theme           |Tech stack            |Time                      |
 |:-----------------|-----|-------------------------------------------|---------------------------------------|-------------------|--------|
 |SoC Cocktail Bar  |   |Next.js |Multi-page website of a cocktail bar menu inspired by SoC coaches.|Next.js, JavaScript |SoC Week 11|
+|Blog  |  |React | Single page React practice. |React, JavaScript | SoC Week 10|
 |BBC Sports Clone  |   |CSS grid and flexbox|A frontend clone practice. |JavaScript, CSS, HTML  |SoC Week 6| 
 |Cat Family  |   |PostgreSQL|Build a REST API with PostgreSQL. |PostgreSQL, ElephantSQL, JavaScript|SoC Week 5| 
 |Country Info API  |   |REST API, Node.js, Express.js|Build a REST API |JavaScript, Node.js, Express.js|SoC Week 4|
