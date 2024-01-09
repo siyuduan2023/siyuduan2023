@@ -11,7 +11,8 @@
 ![GitHub_banner](https://github.com/siyuduan2023/siyuduan2023/assets/137444492/b149e6d3-83e7-427f-9c52-b4c791820587)
 <br>
 <p align="center">
-  <a href="" style="color: green; background-color: purple;">My personal website (ongoing)</a>
+<!--   <a href="" style="color: green; background-color: purple;">My personal website (ongoing)</a> -->
+  My personal website (ongoing)
 </p>
 <br><br>
 
