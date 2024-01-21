@@ -48,7 +48,7 @@
 |Local Garden<br> (solo project)     |[Demo](https://localgarden.vercel.app/) |  [GitHub](https://github.com/siyuduan2023/NotesForGarden)            |React, JavaScript, CSS, HTML  |A full-stack side project, designed for community garden volunteers to manage learning materials and record harvest products. (ongoing)|Oct 2023 |
 
 <br><br><br>
-## Bootcamp Hackathon
+## Bootcamp Hackathon & Projects
 
 |Projects          |Demo |Learning Topic                             |Theme           |Tech stack            |Time                      |
 |:-----------------|-----|-------------------------------------------|---------------------------------------|-------------------|--------|
