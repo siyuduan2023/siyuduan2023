@@ -52,7 +52,7 @@
 
 |Projects          |Demo |Learning Topic                             |Theme           |Tech stack            |Time                      |
 |:-----------------|-----|-------------------------------------------|---------------------------------------|-------------------|--------|
-|Secret Santa      |[Demo](https://travel-perk-hackathon-r0l1eo1m0-siyus-projects-57f0161a.vercel.app/)| |Xmas theme hackathon |Adonis.js, SQLite, React |20th Jan 2024|
+|Secret Santa      |[Demo](https://travel-perk-hackathon-r0l1eo1m0-siyus-projects-57f0161a.vercel.app/)| |Xmas theme 8-hour hackathon worked in a team of three |Adonis.js, SQLite, React |20th Jan 2024|
 |SoC Cocktail Bar  |   |Next.js |Multi-page website of a cocktail bar menu inspired by SoC coaches.|Next.js, JavaScript |SoC Week 11|
 |Blog  |  |React | Single page React practice. |React, JavaScript | SoC Week 10|
 |BBC Sports Clone  |   |CSS grid and flexbox|A frontend clone practice. |JavaScript, CSS, HTML  |SoC Week 6| 
