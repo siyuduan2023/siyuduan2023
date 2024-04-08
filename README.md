@@ -32,7 +32,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[How teamwork helped me survive Bootcamp Week 4 — — build a RESTful API](https://medium.com/@siyuduan.learning/how-teamwork-helped-me-survive-bootcamp-week-4-build-a-restful-api-a6e02ded886a)
 <br><br><br>
  
-📚 I am currently learning Java and automation testing.<br>
+📚 I am currently learning: <br> 
+1) Java and automation testing.<br>
+2) Angular and C#.<br>
+
 📖 I created this [Trello](https://trello.com/invite/devlearnboard/ATTIc0f396a626c55d043631a71a4e28378aA2FE8573) board to track my learning.<br>
 🥳 I love practising JavaScript on exercise. I also like solving [CodeWar](https://www.codewars.com/users/CU_2023) katas <img src="https://www.codewars.com/users/CU_2023/badges/micro?theme=light" alt="kata logo">, some kata solutions can be found in the following Pinned - CodeWar repo.
 
