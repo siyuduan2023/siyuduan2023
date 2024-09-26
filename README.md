@@ -39,7 +39,7 @@ I am interested in coding because I like its approach to solving problems. When 
 2) Angular and C# (with Microsoft course).<br>
 3) Harvard CS50. <br>
 
-📖 I created this [Trello](https://trello.com/invite/devlearnboard/ATTIc0f396a626c55d043631a71a4e28378aA2FE8573) board to track my learning.<br>
+📖 I created this [Trello](https://trello.com/b/2wGRCDqP/full-stack-development-learning) board to track my learning.<br>
 🥳 I love practising JavaScript on exercise. I also like solving [CodeWar](https://www.codewars.com/users/CU_2023) katas <img src="https://www.codewars.com/users/CU_2023/badges/micro?theme=light" alt="kata logo">, some kata solutions can be found in the following Pinned - CodeWar repo.
 
 <br><br><br>
