@@ -42,15 +42,22 @@ I am interested in coding because I like its approach to solving problems. When 
 📖 I created this [Trello](https://trello.com/b/2wGRCDqP/full-stack-development-learning) board to track my learning.<br>
 🥳 I love practising JavaScript on exercise. I also like solving [CodeWar](https://www.codewars.com/users/CU_2023) katas <img src="https://www.codewars.com/users/CU_2023/badges/micro?theme=light" alt="kata logo">, some kata solutions can be found in the following Pinned - CodeWar repo.
 
-<br><br><br>
+<br><br>
 
+
+### My stats ⭐
+<div align="center">
+<img alt="status" height="200" src="https://github-readme-stats.vercel.app/api?username=siyuduan2023&show_icons=true"/>
+<img alt="usage" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
+</div>
+<br><br><br>
 
 ## Projects
 
 |Projects          |Demo                                      |Code                                       |Tech stack            |Details            |Time                      |
 |:-----------------|--------------------------------------|-------------------------------------------|---------------------------------------|-------------------|--------|
-|BeyondBarriers<br> (group project)    |[Demo](https://beyond-barriers.vercel.app/)  |  |React, JavaScript, Supabase  |Full-stack mobile APP designed for people with special needs to easily find venue information. (ongoing) |SoC Week 13 - 16|
-|Memory Echo<br> (group project)      |[Demo](https://memoryecho.vercel.app/) <br>(It takes about 15s to load, please bear with it)|                                     |JavaScript, CSS, HTML  |A full-stack mobile APP designed and created by a team of 6 as the mid-course project at School of Code.|SoC Week 8|
+|BeyondBarriers<br> (group project)    |[Demo](https://beyond-barriers.vercel.app/)  |  |React, JavaScript, Supabase  |Full-stack mobile APP designed for people with special needs to easily find venue information. SoC Week 13 - 16|Dec 2023|
+|Memory Echo<br> (group project)      |[Demo](https://memoryecho.vercel.app/) <br>(It takes about 15s to load, please bear with it)|                                     |JavaScript, CSS, HTML  |A full-stack mobile APP designed and created by a team of 6 as the mid-course project at School of Code. SoC Week 8|Nov 2023|
 |Local Garden<br> (solo project)     |[Demo](https://localgarden.vercel.app/) |  [GitHub](https://github.com/siyuduan2023/NotesForGarden)            |React, JavaScript, CSS, HTML  |A full-stack side project, designed for community garden volunteers to manage learning materials and record harvest products. (ongoing)|Oct 2023 |
 
 <br><br><br>
