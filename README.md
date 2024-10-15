@@ -34,7 +34,7 @@ I am interested in coding because I like its approach to solving problems. When 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[How teamwork helped me survive Bootcamp Week 4 — — build a RESTful API](https://medium.com/@siyuduan.learning/how-teamwork-helped-me-survive-bootcamp-week-4-build-a-restful-api-a6e02ded886a)
 <br><br><br>
  
-📚 I am currently learning: <br> 
+📚 I am currently learning:
 1) Microsoft AI-900.<br>
 2) Angular and C# (with Microsoft course).<br>
 3) Harvard CS50. <br>
