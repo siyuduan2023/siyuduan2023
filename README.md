@@ -44,13 +44,14 @@ I am interested in coding because I like its approach to solving problems. When 
 
 <br><br>
 
-
+<!--
 ### My stats ⭐
 <div align="center">
 <img alt="status" height="200" src="https://github-readme-stats.vercel.app/api?username=siyuduan2023&show_icons=true"/>
 <img alt="usage" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
 </div>
 <br><br><br>
+-->
 
 ## Projects
 
