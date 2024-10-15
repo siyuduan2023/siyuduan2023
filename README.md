@@ -25,17 +25,17 @@
 
 ## About me
 
-👩‍🎓 I have a background in Architecture Design and I am working as a software developer after completing a full-stack software development BootCamp at [School of Code](https://www.schoolofcode.co.uk/) in 2024. I've gained my fundamental level ISTQB certificate and Microsoft Azure Fundamental Certificate. 
+👩‍🎓 I have a background in Architecture Design and I am working as a software developer after completing a full-stack software development BootCamp in 2024. I've gained my fundamental level ISTQB certificate and Microsoft Azure Fundamental Certificate. 
 <br>
 I am interested in coding because I like its approach to solving problems. When I'm not working, I like cooking, DIY and crocheting, going to the local community garden to learn some gardening knowledge, and taking care of my vegetables on my balcony.
 <br><br><br>
 ⏺️ I am documenting my code-learning journey on [Twitter](https://twitter.com/siyuduan2023).<br>
-✍🏼 I also write articles on Medium about my bootcamp experience and projects:<br>
+✍🏼 I also write articles on Medium about my learning experiences and projects:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[How teamwork helped me survive Bootcamp Week 4 — — build a RESTful API](https://medium.com/@siyuduan.learning/how-teamwork-helped-me-survive-bootcamp-week-4-build-a-restful-api-a6e02ded886a)
 <br><br><br>
  
 📚 I am currently learning: <br> 
-1) Java and automation testing.<br>
+1) Microsoft AI-900.<br>
 2) Angular and C# (with Microsoft course).<br>
 3) Harvard CS50. <br>
 
