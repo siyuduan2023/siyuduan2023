@@ -57,7 +57,7 @@ I am interested in coding because I like its approach to solving problems. When 
 
 |Projects          |Demo                                      |Code                                       |Tech stack            |Details            |Time                      |
 |:-----------------|--------------------------------------|-------------------------------------------|---------------------------------------|-------------------|--------|
-|BeyondBarriers<br> (group project)    |[Demo](https://beyond-barriers.vercel.app/)  |  |React, JavaScript, Supabase  |Full-stack mobile APP designed for people with special needs to easily find venue information. SoC Week 13 - 16|Dec 2023|
+|BeyondBarriers<br> (group project)    |[Demo](https://youtu.be/Dy33k5s688g)  |  |React, JavaScript, Supabase  |Full-stack mobile APP designed for people with special needs to easily find venue information. SoC Week 13 - 16|Dec 2023|
 |Memory Echo<br> (group project)      |[Demo](https://memoryecho.vercel.app/) <br>(It takes about 15s to load, please bear with it)|                                     |JavaScript, CSS, HTML  |A full-stack mobile APP designed and created by a team of 6 as the mid-course project at School of Code. SoC Week 8|Nov 2023|
 |Local Garden<br> (solo project)     |[Demo](https://localgarden.vercel.app/) |  [GitHub](https://github.com/siyuduan2023/NotesForGarden)            |React, JavaScript, CSS, HTML  |A full-stack side project, designed for community garden volunteers to manage learning materials and record harvest products. (ongoing)|Oct 2023 |
 
