@@ -15,9 +15,9 @@
 <p align="center" style="color: green;">
 <!--   <a href="" style="color: green; background-color: purple;">My personal website (ongoing)</a> -->
 <!-- deployed site: https://siyuduan-portfolio.vercel.app/-->
-  Latest project: <a href="https://beyond-barriers.vercel.app/">BeyondBarriers</a>
+<!--   Latest project: <a href="https://beyond-barriers.vercel.app/">BeyondBarriers</a>
   <br>
-  A mobile-first website for the disabled community | Team of 6 | Working with a client
+  A mobile-first website for the disabled community | Team of 6 | Working with a client -->
 </p>
 <br><br><br>
 
