@@ -25,7 +25,7 @@
 
 ## About me
 
-👩‍🎓 I have a background in Architecture Design and I am working as a software developer after completing a full-stack software development BootCamp in 2024. I've gained my fundamental level ISTQB certificate and Microsoft Azure Fundamental Certificate. 
+👩‍🎓 I have a background in Architecture Design and I am working as a frontend developer after completing a full-stack software development BootCamp in 2024. I've gained my fundamental level ISTQB certificate (Mar 2024), Microsoft Azure Fundamental Certificate (Sep 2024) and Microsoft Azure AI Fundamental Certificate (Oct 2024). 
 <br>
 I am interested in coding because I like its approach to solving problems. When I'm not working, I like cooking, DIY and crocheting, going to the local community garden to learn some gardening knowledge, and taking care of my vegetables on my balcony.
 <br><br><br>
@@ -35,9 +35,9 @@ I am interested in coding because I like its approach to solving problems. When 
 <br><br><br>
  
 📚 I am currently learning:
-1) Microsoft AI-900.<br>
-2) Angular and C# (with Microsoft course).<br>
-3) Harvard CS50. <br>
+1) Angular Certificate: Junior Level<br>
+2) C# (with Microsoft course).<br>
+3) Prompt Engineering <br>
 
 📖 I created this [Trello](https://trello.com/b/2wGRCDqP/full-stack-development-learning) board to track my learning.<br>
 🥳 I love practising JavaScript on exercise. I also like solving [CodeWar](https://www.codewars.com/users/CU_2023) katas <img src="https://www.codewars.com/users/CU_2023/badges/micro?theme=light" alt="kata logo">, some kata solutions can be found in the following Pinned - CodeWar repo.
