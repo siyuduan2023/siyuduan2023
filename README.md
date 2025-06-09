@@ -19,7 +19,7 @@
   <br>
   A mobile-first website for the disabled community | Team of 6 | Working with a client -->
 </p>
-<br><br><br>
+<br>
 
 
 
