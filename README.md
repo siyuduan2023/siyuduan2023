@@ -11,39 +11,54 @@
 </picture>
 -->
 ![GitHub_banner](https://github.com/siyuduan2023/siyuduan2023/assets/137444492/b149e6d3-83e7-427f-9c52-b4c791820587)
-<br><br><br>
+<br>
+<br>
+<br>
 <p align="center" style="color: green;">
 <!--   <a href="" style="color: green; background-color: purple;">My personal website (ongoing)</a> -->
 <!-- deployed site: https://siyuduan-portfolio.vercel.app/-->
 <!--   Latest project: <a href="https://beyond-barriers.vercel.app/">BeyondBarriers</a>
-  <br>
-  A mobile-first website for the disabled community | Team of 6 | Working with a client -->
+<br>
+A mobile-first website for the disabled community | Team of 6 | Working with a client -->
 </p>
 <br>
 
-
+<p align="center">
+🚀 <strong>What I am working on:</strong> 
+  <br>
+  [A Cocktail Recipe App](https://siyus-ai-tutorgit-328844-ba3c0.web.app)
+  <br>
+  (a practice project to keep my Angular knowledge up to date)
+  <br>
 
 ## About me
 
 👩‍🎓 I have a background in Architecture Design and I am working as a frontend developer after completing a full-stack software development BootCamp in 2024. I've gained my fundamental level ISTQB certificate (Mar 2024), Microsoft Azure Fundamental Certificate (Sep 2024) and Microsoft Azure AI Fundamental Certificate (Oct 2024). 
 <br>
 I am interested in coding because I like its approach to solving problems. When I'm not working, I like cooking, DIY and crocheting, going to the local community garden to learn some gardening knowledge, and taking care of my vegetables on my balcony.
-<br><br><br>
+<br>
+<br>
+<br>
+
+
+<br>
+<br>
+
 ⏺️ I am documenting my code-learning journey on [Twitter](https://twitter.com/siyuduan2023).<br>
 ✍🏼 I also write articles on Medium about my learning experiences and projects:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[How teamwork helped me survive Bootcamp Week 4 — — build a RESTful API](https://medium.com/@siyuduan.learning/how-teamwork-helped-me-survive-bootcamp-week-4-build-a-restful-api-a6e02ded886a)
-<br><br><br>
- 
+<br>
+<br>
+<br>
 📚 I am currently learning:
 1) Angular Certificate: Junior Level<br>
 2) C# (with Microsoft course).<br>
-3) Prompt Engineering <br>
-
+3) Prompt Engineering
+<br>
 📖 I created this [Trello](https://trello.com/b/2wGRCDqP/full-stack-development-learning) board to track my learning.<br>
 🥳 I love practising JavaScript on exercise. I also like solving [CodeWar](https://www.codewars.com/users/CU_2023) katas <img src="https://www.codewars.com/users/CU_2023/badges/micro?theme=light" alt="kata logo">, some kata solutions can be found in the following Pinned - CodeWar repo.
-
-<br><br>
-
+<br>
+<br>
 <!--
 ### My stats ⭐
 <div align="center">
