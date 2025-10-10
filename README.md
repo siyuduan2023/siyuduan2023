@@ -23,12 +23,12 @@ A mobile-first website for the disabled community | Team of 6 | Working with a c
 </p>
 <br>
 
-<p align="center">🚀 <strong>What I am working on:</strong>
+🚀 <strong>What I am working on:</strong>
 <br>
-[Cocktail Recipe App](https://siyus-ai-tutorgit-328844-ba3c0.web.app)   
+[Cocktail Recipe App](https://siyus-ai-tutorgit-328844-ba3c0.web.app)
 <br>
 (a practice project to keep my Angular knowledge up to date)
-</p>
+
 <br>
 
 ## About me
@@ -55,8 +55,10 @@ I am interested in coding because I like its approach to solving problems. When 
 2) C# (with Microsoft course).<br>
 3) Prompt Engineering
 <br>
+<!--
 📖 I created this [Trello](https://trello.com/b/2wGRCDqP/full-stack-development-learning) board to track my learning.<br>
 🥳 I love practising JavaScript on exercise. I also like solving [CodeWar](https://www.codewars.com/users/CU_2023) katas <img src="https://www.codewars.com/users/CU_2023/badges/micro?theme=light" alt="kata logo">, some kata solutions can be found in the following Pinned - CodeWar repo.
+-->
 <br>
 <br>
 <!--
@@ -77,6 +79,7 @@ I am interested in coding because I like its approach to solving problems. When 
 |Local Garden<br> (solo project)     |  |  [GitHub](https://github.com/siyuduan2023/NotesForGarden)            |React, JavaScript, CSS, HTML  |A full-stack side project, designed for community garden volunteers to manage learning materials and record harvest products. (ongoing)|Oct 2023 |
 
 <br><br><br>
+<!--
 ## Bootcamp Hackathon & Projects
 
 |Projects          |Demo |Learning Topic                             |Theme           |Tech stack            |Time                      |
@@ -88,7 +91,7 @@ I am interested in coding because I like its approach to solving problems. When 
 |Cat Family  |   |PostgreSQL|Build a REST API with PostgreSQL. |PostgreSQL, ElephantSQL, JavaScript|SoC Week 5| 
 |Country Info API  |   |REST API, Node.js, Express.js|Build a REST API |JavaScript, Node.js, Express.js|SoC Week 4|
 |Dictionary        |[Demo](https://dictionary-app-ecru.vercel.app/)   |External API and Fetch|A vanilla JavaScript APP that uses fetch API calls.    |JavaScript  |SoC Week 3|
-
+-->
 <!--
 **siyuduan2023/siyuduan2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
