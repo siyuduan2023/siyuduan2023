@@ -23,13 +23,13 @@ A mobile-first website for the disabled community | Team of 6 | Working with a c
 </p>
 <br>
 
-<p align="center">
-🚀 <strong>What I am working on:</strong> 
-  <br>
-  [A Cocktail Recipe App](https://siyus-ai-tutorgit-328844-ba3c0.web.app)
-  <br>
-  (a practice project to keep my Angular knowledge up to date)
-  <br>
+<p align="center">🚀 <strong>What I am working on:</strong>
+<br>
+[Cocktail Recipe App](https://siyus-ai-tutorgit-328844-ba3c0.web.app)   
+<br>
+(a practice project to keep my Angular knowledge up to date)
+</p>
+<br>
 
 ## About me
 
