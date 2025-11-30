@@ -51,9 +51,9 @@ I am interested in coding because I like its approach to solving problems. When 
 <br>
 <br>
 📚 I am currently learning:
-1) Angular Certificate: Junior Level<br>
+1) Angular Certificate: Mid Level<br>
 2) C# (with Microsoft course).<br>
-3) Prompt Engineering
+3) Vibe Coding
 <br>
 <!--
 📖 I created this [Trello](https://trello.com/b/2wGRCDqP/full-stack-development-learning) board to track my learning.<br>
