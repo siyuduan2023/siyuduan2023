@@ -33,30 +33,26 @@ A mobile-first website for the disabled community | Team of 6 | Working with a c
 
 ## About me
 
-👩‍🎓 I have a background in Architecture Design and I am working as a frontend developer after completing a full-stack software development BootCamp in 2024. I've gained my fundamental level ISTQB certificate (Mar 2024), Microsoft Azure Fundamental Certificate (Sep 2024) and Microsoft Azure AI Fundamental Certificate (Oct 2024). 
-<br>
-I am interested in coding because I like its approach to solving problems. When I'm not working, I like cooking, DIY and crocheting, going to the local community garden to learn some gardening knowledge, and taking care of my vegetables on my balcony.
-<br>
-<br>
-<br>
+I have a background in Architecture Design and I am working as a frontend developer after completing a full-stack software development BootCamp in 2024. <br><br>
+🎉 I have been regularly learning new skills and gaining certificates:<br>
+- Junior Angular Developer Certificate (Oct 2025)
+- Microsoft Azure AI Fundamental Certificate (Oct 2024)
+- Microsoft Azure Fundamental Certificate (Sep 2024)
+- Fundamental level ISTQB certificate (Mar 2024)
 
+⛰️Other:
+- I created this [Trello](https://trello.com/b/2wGRCDqP/full-stack-development-learning) board to track my learning.
+- I am documenting my code-learning journey on [Twitter](https://twitter.com/siyuduan2023).
+- I also write articles on Medium about my learning experiences and projects:<br>
+[How teamwork helped me survive Bootcamp Week 4 — — build a RESTful API](https://medium.com/@siyuduan.learning/how-teamwork-helped-me-survive-bootcamp-week-4-build-a-restful-api-a6e02ded886a)
 
-<br>
-<br>
-
-⏺️ I am documenting my code-learning journey on [Twitter](https://twitter.com/siyuduan2023).<br>
-✍🏼 I also write articles on Medium about my learning experiences and projects:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[How teamwork helped me survive Bootcamp Week 4 — — build a RESTful API](https://medium.com/@siyuduan.learning/how-teamwork-helped-me-survive-bootcamp-week-4-build-a-restful-api-a6e02ded886a)
-<br>
-<br>
-<br>
-📚 I am currently learning:
-1) Angular Certificate: Mid Level<br>
-2) C# (with Microsoft course).<br>
-3) Vibe Coding
+📚 I am currently learning: 
+- Angular Certificate: Mid Level
+- C# (with Microsoft course)
+- Vibe Coding
 <br>
 <!--
-📖 I created this [Trello](https://trello.com/b/2wGRCDqP/full-stack-development-learning) board to track my learning.<br>
+I am interested in coding because I like its approach to solving problems. When I'm not working, I like cooking, DIY and crocheting, going to the local community garden to learn some gardening knowledge, and taking care of my vegetables on my balcony.
 🥳 I love practising JavaScript on exercise. I also like solving [CodeWar](https://www.codewars.com/users/CU_2023) katas <img src="https://www.codewars.com/users/CU_2023/badges/micro?theme=light" alt="kata logo">, some kata solutions can be found in the following Pinned - CodeWar repo.
 -->
 <br>
