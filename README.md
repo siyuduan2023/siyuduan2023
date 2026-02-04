@@ -46,7 +46,7 @@ I have a background in Architecture Design and I am working as a frontend develo
 - I created this [Trello](https://trello.com/b/2wGRCDqP/full-stack-development-learning) board to track my learning.
 - I am documenting my code-learning journey on [Twitter](https://twitter.com/siyuduan2023).
 - I also write articles on Medium about my learning experiences and projects:<br>
-[Angular Quick Example: passing down data from parent component to child component using input()].(https://medium.com/@siyuduan.learning/angular-quick-example-passing-down-data-from-parent-component-to-child-component-using-input-5d0044438294)
+[Angular Quick Example: passing down data from parent component to child component using input()](https://medium.com/@siyuduan.learning/angular-quick-example-passing-down-data-from-parent-component-to-child-component-using-input-5d0044438294)<br>
 [How teamwork helped me survive Bootcamp Week 4 — — build a RESTful API](https://medium.com/@siyuduan.learning/how-teamwork-helped-me-survive-bootcamp-week-4-build-a-restful-api-a6e02ded886a)
 
 📚 I am currently learning: 
