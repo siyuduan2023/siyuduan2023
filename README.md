@@ -50,9 +50,9 @@ I have a background in Architecture Design and I am working as a frontend develo
 [How teamwork helped me survive Bootcamp Week 4 — — build a RESTful API](https://medium.com/@siyuduan.learning/how-teamwork-helped-me-survive-bootcamp-week-4-build-a-restful-api-a6e02ded886a)
 
 📚 I am currently learning: 
+- Agentic AI
 - Angular Certificate: Mid Level
 - C# (with Microsoft course)
-- Vibe Coding
 <br>
 <!--
 I am interested in coding because I like its approach to solving problems. When I'm not working, I like cooking, DIY and crocheting, going to the local community garden to learn some gardening knowledge, and taking care of my vegetables on my balcony.
